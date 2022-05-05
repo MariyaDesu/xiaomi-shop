@@ -1,0 +1,498 @@
+{
+  "slideList": [
+    {
+      "id": "42",
+      "img": "/imgs/slider/slide-1.jpg"
+    },
+    {
+      "id": "45",
+      "img": "/imgs/slider/slide-2.jpg"
+    },
+    {
+      "id": "46",
+      "img": "/imgs/slider/slide-3.jpg"
+    },
+    {
+      "id": "47",
+      "img": "/imgs/slider/slide-4.jpg"
+    },
+    {
+      "id": "48",
+      "img": "/imgs/slider/slide-5.jpg"
+    }
+  ],
+  "menuList": [
+    {
+      "title": "手机 电话卡",
+      "list": [
+        [
+          {
+            "id": 30,
+            "img": "/imgs/nav-img/nav1-1.png",
+            "name": "小米CC9",
+            "price": "1799"
+          },
+          {
+            "id": 31,
+            "img": "/imgs/nav-img/nav1-2.png",
+            "name": "小米CC9e",
+            "price": "1299"
+          },
+          {
+            "id": 32,
+            "img": "/imgs/nav-img/nav1-3.png",
+            "name": "小米CC9美图定制版",
+            "price": "2599"
+          },
+          {
+            "id": 33,
+            "img": "/imgs/nav-img/nav1-4.png",
+            "name": "小米9",
+            "price": "2599"
+          }
+        ],
+        [
+          {
+            "id": 34,
+            "img": "/imgs/nav-img/nav1-5.png",
+            "name": "小米9 Pro 5G",
+            "price": "3699"
+          },
+          {
+            "id": 35,
+            "img": "/imgs/nav-img/nav1-6.png",
+            "name": "小米MIX Alpha",
+            "price": "19999"
+          },
+          {
+            "id": 30,
+            "img": "/imgs/nav-img/nav1-1.png",
+            "name": "小米CC9",
+            "price": "1799"
+          },
+          {
+            "id": 31,
+            "img": "/imgs/nav-img/nav1-2.png",
+            "name": "小米CC9e",
+            "price": "1299"
+          }
+        ]
+      ]
+    },
+    {
+      "title": "电视 盒子",
+      "list": [
+        [
+          {
+            "id": 30,
+            "img": "/imgs/nav-img/nav-3-1.jpg",
+            "name": "小米电视6",
+            "price": "1799"
+          },
+          {
+            "id": 31,
+            "img": "/imgs/nav-img/nav-3-2.jpg",
+            "name": "小米电视pro",
+            "price": "1799"
+          },
+          {
+            "id": 32,
+            "img": "/imgs/nav-img/nav-3-3.png",
+            "name": "小米画壁",
+            "price": "1799"
+          },
+          {
+            "id": 33,
+            "img": "/imgs/nav-img/nav-3-4.jpg",
+            "name": "小米电视plus",
+            "price": "1799"
+          }
+        ],
+        [
+          {
+            "id": 30,
+            "img": "/imgs/nav-img/nav-3-1.jpg",
+            "name": "小米电视6"
+          },
+          {
+            "id": 31,
+            "img": "/imgs/nav-img/nav-3-2.jpg",
+            "name": "小米电视pro"
+          },
+          {
+            "id": 32,
+            "img": "/imgs/nav-img/nav-3-3.png",
+            "name": "小米画壁"
+          },
+          {
+            "id": 33,
+            "img": "/imgs/nav-img/nav-3-4.jpg",
+            "name": "小米电视plus"
+          }
+        ]
+      ]
+    },
+    {
+      "title": "笔记本 平板",
+      "list": [
+        [
+          {
+            "id": 30,
+            "img": "/imgs/nav-img/nav-3-1.jpg",
+            "name": "小米电视6",
+            "price": "1799"
+          },
+          {
+            "id": 31,
+            "img": "/imgs/nav-img/nav-3-2.jpg",
+            "name": "小米电视pro",
+            "price": "1799"
+          },
+          {
+            "id": 32,
+            "img": "/imgs/nav-img/nav-3-3.png",
+            "name": "小米画壁",
+            "price": "1799"
+          },
+          {
+            "id": 33,
+            "img": "/imgs/nav-img/nav-3-4.jpg",
+            "name": "小米电视plus",
+            "price": "1799"
+          }
+        ],
+        [
+          {
+            "id": 30,
+            "img": "/imgs/nav-img/nav-3-1.jpg",
+            "name": "小米电视6"
+          },
+          {
+            "id": 31,
+            "img": "/imgs/nav-img/nav-3-2.jpg",
+            "name": "小米电视pro"
+          },
+          {
+            "id": 32,
+            "img": "/imgs/nav-img/nav-3-3.png",
+            "name": "小米画壁"
+          },
+          {
+            "id": 33,
+            "img": "/imgs/nav-img/nav-3-4.jpg",
+            "name": "小米电视plus"
+          }
+        ]
+      ]
+    },
+    {
+      "title": "家电 插线板",
+      "list": [
+        [
+          {
+            "id": 30,
+            "img": "/imgs/nav-img/nav-3-1.jpg",
+            "name": "小米电视6",
+            "price": "1799"
+          },
+          {
+            "id": 31,
+            "img": "/imgs/nav-img/nav-3-2.jpg",
+            "name": "小米电视pro",
+            "price": "1799"
+          },
+          {
+            "id": 32,
+            "img": "/imgs/nav-img/nav-3-3.png",
+            "name": "小米画壁",
+            "price": "1799"
+          },
+          {
+            "id": 33,
+            "img": "/imgs/nav-img/nav-3-4.jpg",
+            "name": "小米电视plus",
+            "price": "1799"
+          }
+        ],
+        [
+          {
+            "id": 30,
+            "img": "/imgs/nav-img/nav-3-1.jpg",
+            "name": "小米电视6"
+          },
+          {
+            "id": 31,
+            "img": "/imgs/nav-img/nav-3-2.jpg",
+            "name": "小米电视pro"
+          },
+          {
+            "id": 32,
+            "img": "/imgs/nav-img/nav-3-3.png",
+            "name": "小米画壁"
+          },
+          {
+            "id": 33,
+            "img": "/imgs/nav-img/nav-3-4.jpg",
+            "name": "小米电视plus"
+          }
+        ]
+      ]
+    },
+    {
+      "title": "出行 穿戴",
+      "list": [
+        [
+          {
+            "id": 30,
+            "img": "/imgs/nav-img/nav-3-1.jpg",
+            "name": "小米电视6"
+          },
+          {
+            "id": 31,
+            "img": "/imgs/nav-img/nav-3-2.jpg",
+            "name": "小米电视pro"
+          },
+          {
+            "id": 32,
+            "img": "/imgs/nav-img/nav-3-3.png",
+            "name": "小米画壁"
+          },
+          {
+            "id": 33,
+            "img": "/imgs/nav-img/nav-3-4.jpg",
+            "name": "小米电视plus"
+          }
+        ],
+        [
+          {
+            "id": 30,
+            "img": "/imgs/nav-img/nav-3-1.jpg",
+            "name": "小米电视6"
+          },
+          {
+            "id": 31,
+            "img": "/imgs/nav-img/nav-3-2.jpg",
+            "name": "小米电视pro"
+          },
+          {
+            "id": 32,
+            "img": "/imgs/nav-img/nav-3-3.png",
+            "name": "小米画壁"
+          },
+          {
+            "id": 33,
+            "img": "/imgs/nav-img/nav-3-4.jpg",
+            "name": "小米电视plus"
+          }
+        ]
+      ]
+    },
+    {
+      "title": "智能 路由器",
+      "list": [
+        {
+          "id": 30,
+          "img": "/imgs/nav-img/nav-3-1.jpg",
+          "name": "小米电视6"
+        },
+        {
+          "id": 31,
+          "img": "/imgs/nav-img/nav-3-2.jpg",
+          "name": "小米电视pro"
+        },
+        {
+          "id": 32,
+          "img": "/imgs/nav-img/nav-3-3.png",
+          "name": "小米画壁"
+        },
+        {
+          "id": 33,
+          "img": "/imgs/nav-img/nav-3-4.jpg",
+          "name": "小米电视plus"
+        }
+      ]
+    },
+    {
+      "title": "电源 配件",
+      "list": [
+        [
+          {
+            "id": 30,
+            "img": "/imgs/nav-img/nav-3-1.jpg",
+            "name": "小米电视6"
+          },
+          {
+            "id": 31,
+            "img": "/imgs/nav-img/nav-3-2.jpg",
+            "name": "小米电视pro"
+          },
+          {
+            "id": 32,
+            "img": "/imgs/nav-img/nav-3-3.png",
+            "name": "小米画壁"
+          },
+          {
+            "id": 33,
+            "img": "/imgs/nav-img/nav-3-4.jpg",
+            "name": "小米电视plus"
+          }
+        ],
+        [
+          {
+            "id": 30,
+            "img": "/imgs/nav-img/nav-3-1.jpg",
+            "name": "小米电视6"
+          },
+          {
+            "id": 31,
+            "img": "/imgs/nav-img/nav-3-2.jpg",
+            "name": "小米电视pro"
+          },
+          {
+            "id": 32,
+            "img": "/imgs/nav-img/nav-3-3.png",
+            "name": "小米画壁"
+          },
+          {
+            "id": 33,
+            "img": "/imgs/nav-img/nav-3-4.jpg",
+            "name": "小米电视plus"
+          }
+        ]
+      ]
+    },
+    {
+      "title": "生活 箱包",
+      "list": [
+        [
+          {
+            "id": 30,
+            "img": "/imgs/nav-img/nav-3-1.jpg",
+            "name": "小米电视6",
+            "price": "1799"
+          },
+          {
+            "id": 31,
+            "img": "/imgs/nav-img/nav-3-2.jpg",
+            "name": "小米电视pro",
+            "price": "1799"
+          },
+          {
+            "id": 32,
+            "img": "/imgs/nav-img/nav-3-3.png",
+            "name": "小米画壁",
+            "price": "1799"
+          },
+          {
+            "id": 33,
+            "img": "/imgs/nav-img/nav-3-4.jpg",
+            "name": "小米电视plus",
+            "price": "1799"
+          }
+        ],
+        [
+          {
+            "id": 30,
+            "img": "/imgs/nav-img/nav-3-1.jpg",
+            "name": "小米电视6"
+          },
+          {
+            "id": 31,
+            "img": "/imgs/nav-img/nav-3-2.jpg",
+            "name": "小米电视pro"
+          },
+          {
+            "id": 32,
+            "img": "/imgs/nav-img/nav-3-3.png",
+            "name": "小米画壁"
+          },
+          {
+            "id": 33,
+            "img": "/imgs/nav-img/nav-3-4.jpg",
+            "name": "小米电视plus"
+          }
+        ]
+      ]
+    }
+  ],
+  "adsList": [
+    {
+      "id": 33,
+      "img": "/imgs/ads/ads-1.png"
+    },
+    {
+      "id": 48,
+      "img": "/imgs/ads/ads-2.jpg"
+    },
+    {
+      "id": 45,
+      "img": "/imgs/ads/ads-3.png"
+    },
+    {
+      "id": 47,
+      "img": "/imgs/ads/ads-4.jpg"
+    }
+  ],
+  "phoneList": [
+    [
+      {
+        "id": 30,
+        "img": "/imgs/nav-img/nav1-1.png",
+        "title": "Xiaomi Civi 1S",
+        "subtitle": "6400万全场景四摄",
+        "price": "2299元"
+      },
+      {
+        "id": 31,
+        "img": "/imgs/nav-img/nav1-2.png",
+        "title": "Xiaomi 12 Pro",
+        "subtitle": "千元4800万四摄",
+        "price": "4699元"
+      },
+      {
+        "id": 32,
+        "img": "/imgs/nav-img/nav1-3.png",
+        "title": "Xiaomi 12",
+        "subtitle": "骁龙855 Plus， 弹出全面屏",
+        "price": "3699元"
+      },
+      {
+        "id": 33,
+        "img": "/imgs/nav-img/nav1-4.png",
+        "title": "Xiaomi 12X",
+        "subtitle": "4800万拍照千元机",
+        "price": "2299元"
+      }
+    ],
+    [
+      {
+        "id": 34,
+        "img": "/imgs/nav-img/nav1-5.png",
+        "title": "Xiaomi 11 青春活力版",
+        "subtitle": "4000mAh超长续航",
+        "price": "1899元"
+      },
+      {
+        "id": 35,
+        "img": "/imgs/nav-img/nav1-6.png",
+        "title": "Xiaomi Civi",
+        "subtitle": "小巧大电量 持久流畅",
+        "price": "2299元"
+      },
+      {
+        "id": 36,
+        "img": "/imgs/nav-img/nav2-4.png",
+        "title": "Xiaomi 12X",
+        "subtitle": "4800万拍照千元机",
+        "price": "2299元"
+      },
+      {
+        "id": 37,
+        "img": "/imgs/nav-img/nav2-5.png",
+        "title": "Xiaomi 11 青春活力版",
+        "subtitle": "4000mAh超长续航",
+        "price": "1899元"
+      }
+    ]
+  ]
+}

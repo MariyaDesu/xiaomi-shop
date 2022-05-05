@@ -1,0 +1,113 @@
+{
+  "phoneList": [
+    {
+      "id": 30,
+      "img": "/imgs/nav-img/nav1-1.png",
+      "title": "小米CC9",
+      "price": "1799"
+    },
+    {
+      "id": 31,
+      "img": "/imgs/nav-img/nav1-2.png",
+      "title": "小米CC9e",
+      "price": "1299"
+    },
+    {
+      "id": 32,
+      "img": "/imgs/nav-img/nav1-3.png",
+      "title": "小米CC9 美图定制版",
+      "price": "2599"
+    },
+    {
+      "id": 33,
+      "img": "/imgs/nav-img/nav1-4.png",
+      "title": "小米9",
+      "price": "2599"
+    },
+    {
+      "id": 34,
+      "img": "/imgs/nav-img/nav1-5.png",
+      "title": "小米9 Pro 5G",
+      "price": "3699"
+    },
+    {
+      "id": 35,
+      "img": "/imgs/nav-img/nav1-6.png",
+      "title": "小米MIX Alpha",
+      "price": "19999"
+    }
+  ],
+  "redmiList": [
+    {
+      "id": 36,
+      "img": "/imgs/nav-img/nav2-1.png",
+      "title": "Redmi Note 8 Pro",
+      "price": "1399"
+    },
+    {
+      "id": 37,
+      "img": "/imgs/nav-img/nav2-2.png",
+      "title": "Redmi Note 8",
+      "price": "999"
+    },
+    {
+      "id": 38,
+      "img": "/imgs/nav-img/nav2-3.png",
+      "title": "Redmi K20 Pro 尊享版",
+      "price": "2699"
+    },
+    {
+      "id": 39,
+      "img": "/imgs/nav-img/nav2-4.png",
+      "title": "Redmi Note 7",
+      "price": "1099"
+    },
+    {
+      "id": 40,
+      "img": "/imgs/nav-img/nav2-5.png",
+      "title": "Redmi 7",
+      "price": "699"
+    },
+    {
+      "id": 41,
+      "img": "/imgs/nav-img/nav2-6.png",
+      "title": "Redmi 7A",
+      "price": "579"
+    }
+  ],
+  "tvList": [
+    {
+      "id": 46,
+      "img": "/imgs/nav-img/nav-3-1.jpg",
+      "title": "小米壁画电视 65英寸",
+      "price": "1799"
+    },
+    {
+      "id": 46,
+      "img": "/imgs/nav-img/nav-3-2.jpg",
+      "title": "小米全面屏电视 60英寸",
+      "price": "2999元"
+    },
+    {
+      "id": 46,
+      "img": "/imgs/nav-img/nav-3-3.png",
+      "title": "小米电视LED 70英寸",
+      "price": "3999元"
+    },
+    { "id": 46,
+      "img": "/imgs/nav-img/nav-3-4.jpg",
+      "title": "小米超清电视",
+      "price": "5688元"
+    },
+    { "id": 46,
+      "img": "/imgs/nav-img/nav-3-5.jpg",
+      "title": "小米OLED 屏幕电视",
+      "price": "6228元"
+    },
+    { "id": 46,
+      "img": "/imgs/nav-img/nav-3-6.png",
+      "title": "小米环绕屏电视 60英寸",
+      "price": "4890元"
+    }
+  ]
+}
