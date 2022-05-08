@@ -8,7 +8,8 @@
 5. UI框架：elementUI。
 5. 测试用户：  
    * admin1/admin1 
-7. 效果图![image-20220509050718731](C:\Users\26244\Desktop\image-20220509050718731.png)
+7. 效果图
+
 
 
 # 2. 目录说明
