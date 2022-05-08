@@ -11,12 +11,13 @@
     "axios": "^0.21.1",
     "core-js": "^2.6.5",
     "mockjs": "^1.1.0",
+    "qrcode": "^1.5.0",
+    "swiper": "^5.4.3",
     "vue": "^2.6.10",
+    "vue-awesome-swiper": "^4.1.1",
     "vue-infinite-scroll": "^2.0.2",
     "vue-router": "^3.5.1",
-    "vuex": "^3.6.2",
-    "swiper": "^5.4.3",
-    "vue-awesome-swiper": "^4.1.1"
+    "vuex": "^3.6.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.12.0",
@@ -43,7 +44,7 @@
       "eslint:recommended"
     ],
     "rules": {
-      "no-console":"off"
+      "no-console": "off"
     },
     "parserOptions": {
       "parser": "babel-eslint"

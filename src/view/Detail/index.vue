@@ -124,9 +124,9 @@ export default {
         productId: this.id,
         selected: true,
       };
-      this.$API.reqAddCart(params).then((res = { cartProductVoList: 0 }) => {
-
-          this.$store.dispatch("saveCartCount",res.cartProductVoList.length + 1);
+      this.$API.reqAddCart(params).then((res = { cartTotalQuantity: 0 }) => {
+        console.log(res);
+          this.$store.dispatch("saveCartCount",res.cartTotalQuantity);
           this.$router.push("/cart");
         });
     },

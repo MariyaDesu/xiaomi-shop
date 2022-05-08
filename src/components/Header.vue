@@ -140,7 +140,6 @@ export default {
       });
     },
     goDetail(data) {
-      console.log(data);
       this.$router.push({ name: "product", params: { id: data } });
     },
     goToCart() {
